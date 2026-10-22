@@ -1,0 +1,23 @@
+body, html {
+    margin: 1em;
+    padding: 0;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+#counter-button-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+

@@ -24,3 +24,8 @@ body, html {
 .hidden {
     display: none;
 }
+
+.blue-back {
+    background-color: blue;
+    color: white;
+}

@@ -25,3 +25,5 @@ setInterval(() => {
     timeDisplay.textContent = `Time: ${time}`
     dateDisplay.textContent = `Date: ${date}`
 }, 1000);
+
+

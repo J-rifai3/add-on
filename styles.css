@@ -21,3 +21,6 @@ body, html {
     gap: 1em;
 }
 
+.hidden {
+    display: none;
+}
